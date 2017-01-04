@@ -26,4 +26,4 @@
 12. 网站后台-小说插件-手机版，填写app的安装包地址
 
 
-# [点此链接查看详细教程](http://www.kancloud.cn/yuan1314/xifeng/214858http://www.kancloud.cn/yuan1314/xifeng/214858)
+# [点此链接查看详细教程](http://www.kancloud.cn/yuan1314/xifeng/214858)
