@@ -1,6 +1,6 @@
 #西风云阅读APP
-###[扫描下载演示app](http://demo.jameson512.com/xifeng/demo.apk)
-![扫描二维码下载app](http://demo.jameson512.com/xifeng/demo.png)
+###[扫描下载演示app](http://demo.xf512.com/xifeng/demo.apk)
+![扫描二维码下载app](http://demo.xf512.com/xifeng/demo.png)
 
 # [使用方法](http://www.kancloud.cn/yuan1314/xifeng)
 
